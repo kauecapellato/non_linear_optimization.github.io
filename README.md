@@ -1,4 +1,4 @@
-# Algorimtmos de Otimização Não Linear (Non Linear Optimization Algoritms):
+# Algoritmos de Otimização Não Linear (Non Linear Optimization Algoritms):
 
 1.) Método da Descida do Gradiente (Gradient Descent)
 
